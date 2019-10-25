@@ -1,0 +1,49 @@
+body {
+  background-color:#d1cebe;
+}
+.header-image {
+  width:1100px;
+  height:200px;
+}
+a {
+  color:#86805f;
+}
+a:hover {
+  color:#65865f;
+}
+.peter-pan {
+  width:200px;
+  height:300px;
+}
+.footer {
+  font-style:italic;
+}
+.people {
+  width:400px;
+  length:400px;
+  border-style:solid;
+  border-width:4px;
+}
+.abt {
+  font-size:20px;
+}
+.normal {
+  font-style:normal;
+}
+.abt-me {
+  font-size:20px;
+  font-style:italic;
+}
+.big {
+  width:500px;
+  length:500px;
+}
+tr:hover {
+  background-color:#675f86;
+}
+thead {
+  background-color:#865f6b;
+}
+.sign-up {
+  font-size:25px;
+}
